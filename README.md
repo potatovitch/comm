@@ -1,6 +1,6 @@
 # comm
 
-1. Détection des fraudes :
+1. Détection des fraudes :  
 a. Analyse des transactions en temps réel
 
 Les systèmes traditionnels de détection des fraudes se basent souvent sur des règles prédéfinies (par exemple, "si une transaction dépasse ce montant, alors elle est suspecte"). En revanche, l'IA, notamment grâce à l'apprentissage automatique (machine learning), peut analyser des milliers, voire des millions de transactions en temps réel pour identifier des comportements suspects.
