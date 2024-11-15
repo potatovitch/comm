@@ -41,7 +41,7 @@ L’IA facilite l'audit interne et le reporting en permettant une analyse automa
 
     Automatisation des rapports réglementaires : Les outils d’IA peuvent extraire et organiser les informations pertinentes des transactions et des processus internes pour générer automatiquement des rapports réglementaires conformes, réduisant ainsi le temps et le coût associés à la préparation manuelle de ces documents.
 
-3. Avantages globaux pour la sécurité et la conformité :
+2. Avantages globaux pour la sécurité et la conformité :
 
     Réduction des faux positifs : Les systèmes d'IA permettent de réduire les faux positifs en matière de détection de fraudes, ce qui signifie que les clients sont moins susceptibles de se voir bloquer des transactions légitimes.
 
